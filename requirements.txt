@@ -1,0 +1,22 @@
+# Core ML and Data Processing Libraries
+torch
+unsloth
+transformers
+sentencepiece
+accelerate
+bitsandbytes
+datasets
+ultralytics
+supervision
+opencv-python
+openai-whisper
+sounddevice
+numpy
+scipy
+
+# Web Framework and Server Libraries
+Flask
+Flask-SocketIO
+gunicorn
+aiortc
+
