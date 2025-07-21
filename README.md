@@ -42,7 +42,7 @@ pip for package management
 
 A Hugging Face account
 
-Clone the Repository git clone https://github.com/ArtExists/Emotion_Det cd Emotion_Det
+Clone the Repository git clone https://github.com/DAIMAXKYUREM/Emotion-detection-audio-video cd Emotion-detection-audio-video
 
 Install Dependencies Install all the required Python libraries using the requirements.txt file.
 
